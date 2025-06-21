@@ -16,6 +16,7 @@ static double CalculateAverage(int[] numbers)
     return (double)sum / numbers.Length;
 }
 
+int zmienna;
 
 public static int FindMax(int[] numbers) =>
     numbers.Max();
