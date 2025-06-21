@@ -19,3 +19,6 @@ static double CalculateAverage(int[] numbers)
 
 public static int FindMax(int[] numbers) =>
     numbers.Max();
+
+
+//komentarz
