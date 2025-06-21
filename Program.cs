@@ -20,3 +20,6 @@ int zmienna;
 
 public static int FindMax(int[] numbers) =>
     numbers.Max();
+
+
+//komentarz
